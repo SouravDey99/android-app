@@ -1,0 +1,6 @@
+{
+  "name": "SyncWall",
+  "description": "Native Android Real-Time Collaborative Wallpaper Sync App. Connect, collaborate on a shared canvas in real-time, and apply sync'd wallpapers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
